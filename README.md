@@ -46,3 +46,5 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::getFpTemplateList         | 19848       | yes                           |
 | BpFingerPrintService::connect            | 1A72C       | yes                           |
 | BpFingerPrintService::check              | 1A81C       | yes                           |
+
+34 functions
