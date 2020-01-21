@@ -46,5 +46,19 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::getFpTemplateList         | 19848       | yes                           |
 | BpFingerPrintService::connect            | 1A72C       | yes                           |
 | BpFingerPrintService::check              | 1A81C       | yes                           |
+| BpFingerPrint::connectForTool            | 17AD4       | no                            |
+| BpFingerPrint::enroll_verify             | 16914       | no                            |
+| BpFingerPrint::getDataForTestTool        | 16078       | no                            |
+| BpFingerPrint::getDataForTestTool        | 16078       | no                            |
+| BpFingerPrint::gfCmdM                    | 150E0       | no                            |
+| BpFingerPrint::load_all_fpdata           | 16A24       | no                            |
+| BpFingerPrint::saveRegistWithId          | 177E4       | no                            |
+| BpFingerPrint::setRecFlag                | 15214       | no                            |
+| BpFingerPrint::setSafeClass              | 15300       | no                            |
+| BpFingerPrint::set_fpdb_to_ta            | 176C4       | no                            |
+| BpFingerPrint::set_user_id               | 16FB4       | no                            |
+| BpFingerPrint::weChatSetSessionId        | 16EC8       | no                            |
+| BpFingerPrintService::connectForTool     | 1A5A4       | no                            |
+| BpFingerPrint::alipayTzInvokeCommand     | 155E4       | no                            |
 
-34 functions
+48 functions
