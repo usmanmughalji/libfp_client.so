@@ -49,7 +49,6 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::connectForTool            | 17AD4       | no                            |
 | BpFingerPrint::enroll_verify             | 16914       | no                            |
 | BpFingerPrint::getDataForTestTool        | 16078       | no                            |
-| BpFingerPrint::getDataForTestTool        | 16078       | no                            |
 | BpFingerPrint::gfCmdM                    | 150E0       | no                            |
 | BpFingerPrint::load_all_fpdata           | 16A24       | no                            |
 | BpFingerPrint::saveRegistWithId          | 177E4       | no                            |
@@ -61,4 +60,4 @@ Maybe need to patch Aliplay functions
 | BpFingerPrintService::connectForTool     | 1A5A4       | no                            |
 | BpFingerPrint::alipayTzInvokeCommand     | 155E4       | no                            |
 
-48 functions
+47 functions
