@@ -1,3 +1,5 @@
+In this "Not" Means These Functions Are Not Found In Our libfp_client.so
+
 By Roker2
 
 ## libfp_client.so
