@@ -32,7 +32,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::delFpTemplates            | 14640       | yes                           |
 | BpFingerPrint::checkPasswd               | 1596C       | yes                           |
 | BpFingerPrint::recognizeFido             | 14840       | yes                           |
-| BpFingerPrint::recognizeWithRestrict     | 161EC       | yes                           |
+| BpFingerPrint::recognizeWithRestrict     | 149B8       | yes                           |
 | BpFingerPrint::fillAuthTokenHmac         | 15710       | yes                           |
 | BpFingerPrint::getFpTemplateIdList       | 15C2C       | yes                           |
 | BpFingerPrint::getInfo                   | 1708C       | yes                           |
