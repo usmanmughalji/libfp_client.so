@@ -40,7 +40,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::modifyFpName              | 1587C       | yes                           |
 | BpFingerPrint::setPasswd                 | 15A68       | yes                           |
 | BpFingerPrint::saveRegister              | 15B7C       | yes                           |
-| BpFingerPrint::requestPermission         | 175A8       | yes                           |
+| BpFingerPrint::requestPermission         | 15C80       | yes                           |
 | BpFingerPrint::SendCmd                   | 1791C       | yes                           |
 | BpFingerPrint::connect                   | 17C34       | yes                           |
 | BpFingerPrint::getFpTemplateList         | 19848       | yes                           |
