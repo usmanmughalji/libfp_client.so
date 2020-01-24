@@ -22,7 +22,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::cancelRegist              | 14F14       | yes                           |
 | BpFingerPrint::regist                    | 14FE8       | yes                           |
 | BpFingerPrint::query                     | 152E4       | yes                           |
-| BpFingerPrint::disconnect                | 16DD4       | yes                           |
+| BpFingerPrint::disconnect                | 154A4       | yes                           |
 | BpFingerPrint::setActiveGroup            | 15820       | yes                           |
 | BpFingerPrint::setPauseRegisterState     | 15B34       | yes                           |
 | BpFingerPrint::saveRegist                | 163DC       | yes                           |
