@@ -17,7 +17,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::driverTest                | 14300       | yes                           |
 | BpFingerPrint::cancelRecognize           | 14718       | yes                           |
 | BpFingerPrint::recognize                 | 14ABC       | yes                           |
-| BpFingerPrint::resetRegist               | 165A0       | yes                           |
+| BpFingerPrint::resetRegist               | 14D6C       | yes                           |
 | BpFingerPrint::registRollback            | 16674       | yes                           |
 | BpFingerPrint::cancelRegist              | 16748       | yes                           |
 | BpFingerPrint::regist                    | 1681C       | yes                           |
