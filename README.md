@@ -29,7 +29,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::unRegist                  | 14C94       | yes                           |
 | BpFingerPrint::sendScreenState           | 1520C       | yes                           |
 | BpFingerPrint::setMode                   | 153CC       | yes                           |
-| BpFingerPrint::delFpTemplates            | 15D70       | yes                           |
+| BpFingerPrint::delFpTemplates            | 14640       | yes                           |
 | BpFingerPrint::checkPasswd               | 17294       | yes                           |
 | BpFingerPrint::recognizeFido             | 15F70       | yes                           |
 | BpFingerPrint::recognizeWithRestrict     | 161EC       | yes                           |
