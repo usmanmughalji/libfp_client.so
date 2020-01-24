@@ -34,7 +34,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::recognizeFido             | 14840       | yes                           |
 | BpFingerPrint::recognizeWithRestrict     | 149B8       | yes                           |
 | BpFingerPrint::fillAuthTokenHmac         | 15710       | not                           |
-| BpFingerPrint::getFpTemplateIdList       | 15C2C       | yes                           |
+| BpFingerPrint::getFpTemplateIdList       | 144FC       | yes                           |
 | BpFingerPrint::getInfo                   | 1708C       | yes                           |
 | BpFingerPrint::getFpNameById             | 1593C       | yes                           |
 | BpFingerPrint::modifyFpName              | 171A4       | yes                           |
