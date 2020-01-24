@@ -19,7 +19,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::recognize                 | 14ABC       | yes                           |
 | BpFingerPrint::resetRegist               | 14D6C       | yes                           |
 | BpFingerPrint::registRollback            | 14E40       | yes                           |
-| BpFingerPrint::cancelRegist              | 16748       | yes                           |
+| BpFingerPrint::cancelRegist              | 14F14       | yes                           |
 | BpFingerPrint::regist                    | 1681C       | yes                           |
 | BpFingerPrint::query                     | 16C14       | yes                           |
 | BpFingerPrint::disconnect                | 16DD4       | yes                           |
