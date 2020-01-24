@@ -25,7 +25,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::disconnect                | 154A4       | yes                           |
 | BpFingerPrint::setActiveGroup            | 15820       | not                           |
 | BpFingerPrint::setPauseRegisterState     | 14404       | yes                           |
-| BpFingerPrint::saveRegist                | 163DC       | yes                           |
+| BpFingerPrint::saveRegist                | 14BA8       | yes                           |
 | BpFingerPrint::unRegist                  | 164C8       | yes                           |
 | BpFingerPrint::sendScreenState           | 16B3C       | yes                           |
 | BpFingerPrint::setMode                   | 16CFC       | yes                           |
