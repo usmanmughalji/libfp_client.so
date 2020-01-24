@@ -16,7 +16,7 @@ Maybe need to patch Aliplay functions
 | BpFingerPrint::enableFingerScreenUnlock  | 13FB4       | yes                           |
 | BpFingerPrint::driverTest                | 14300       | yes                           |
 | BpFingerPrint::cancelRecognize           | 14718       | yes                           |
-| BpFingerPrint::recognize                 | 162F0       | yes                           |
+| BpFingerPrint::recognize                 | 14ABC       | yes                           |
 | BpFingerPrint::resetRegist               | 165A0       | yes                           |
 | BpFingerPrint::registRollback            | 16674       | yes                           |
 | BpFingerPrint::cancelRegist              | 16748       | yes                           |
