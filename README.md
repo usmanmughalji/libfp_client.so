@@ -13,7 +13,7 @@ Maybe need to patch Aliplay functions
 | Function                                 | Patch place | Patch status (patched or not) |
 | :--------------------------------------- | :---------- | :---------------------------- |
 | BpFingerPrint::disableFingerScreenUnlock | 13EE0       | yes                           |
-| BpFingerPrint::enableFingerScreenUnlock  | 154AC       | yes                           |
+| BpFingerPrint::enableFingerScreenUnlock  | 13FB4       | yes                           |
 | BpFingerPrint::driverTest                | 15A30       | yes                           |
 | BpFingerPrint::cancelRecognize           | 15E48       | yes                           |
 | BpFingerPrint::recognize                 | 162F0       | yes                           |
